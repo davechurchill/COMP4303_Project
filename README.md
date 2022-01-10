@@ -6,7 +6,7 @@ Instructions:
 * Create a new *PRIVATE* repository from this template
 * Add user `davechurchill` as a collaborator (Settings > Manage Access > Add People)
 * Submit the URL to your new repo via the `Project - GitHub Repo Link` D2L assignment dropbox
-* You can click the pencil icon in the top-right of this section to edit the `README.md` file straight from the GitHub website
+* Click the pencil icon in the top-right of this section to edit straight from the GitHub website
 * Edit your `README.md` file to include your group info, and remove these instructions
 
 Project Group Members:
