@@ -1,0 +1,7 @@
+Remove this file and replace it with the following:
+
+StarCraft Projects:
+- Your StarterBot.cpp file
+
+Minecraft Projects:
+- Your python file
