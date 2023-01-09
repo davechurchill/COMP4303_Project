@@ -1,9 +1,4 @@
-# StarCraft Project Feature Requirements
-
-Here you will find a list of all the requirements for the StarCraft project. These are listed somewhat in order of how they should be implemented, since later features probably require the previous features to be working first in order to function properly. The goal of this project is not simply to make the highest win rate bot by rushing your opponent with Zerglings, but to focus on an interesting AI topic specialty (listed below) and implement it in a real-time game setting.
-
-### StarCraft Project Feature Checklist
-The following features have been implemented so far:
+# StarCraft Project Feature Checklist
 - [x] Chosen speciality is: _____
   - [ ] Specialty implemented successfully and demonstrated in video
 - [ ] Resource Gathering Basics
@@ -38,6 +33,10 @@ The following features have been implemented so far:
   - [ ] Natural Expansion location calculated and drawn to map
   - [ ] Expansion built and demonstrated at least once for video
 - [ ] Succesfully default built-in AI sometimes
+
+# StarCraft Project Feature Requirements
+
+Here you will find a list of all the requirements for the StarCraft project. These are listed somewhat in order of how they should be implemented, since later features probably require the previous features to be working first in order to function properly. The goal of this project is not simply to make the highest win rate bot by rushing your opponent with Zerglings, but to focus on an interesting AI topic specialty (listed below) and implement it in a real-time game setting.
 
 ## Feature 0: Chosen Specialty
 
