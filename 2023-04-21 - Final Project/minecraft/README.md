@@ -78,3 +78,9 @@ As the judging criteria are quite abstract, in order to create a more concrete s
 - The colors and materials of blocks chosen to construct your settlement should somewhat match the biome they are in
 - Decorations should be placed outside and inside buildings in order to make the settlement look nicer and provide a sense of being lived in
 - You should include at least 1 major outdoor feature in your settlement such as a farm, etc
+
+# Minecraft Code Structure
+
+- All of the code used to generate your project should be placed in this folder
+- The above checklist should be updated as features are completed, so I can see them with the final submission
+- All instructions should be removed from this file for the final submission with only the checklist remaining
