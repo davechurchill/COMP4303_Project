@@ -6,7 +6,7 @@ For the project initial demo, you must record a narrated 3-5 minute video showin
 - Enemy base is scouted at the beginning of the match and successfully found
 - An attack takes place on the enemy base, ideally doing some damage or winning a game
 - Whatever your chosen area of specialization was should be partially implemented
-- An explanation of how these things have been accomplished so far, and what features you have left to implement for the final project hand-in
+- An explanation of how these things have been accomplished so far, and what features you have left to implement
 
 This folder contains the following 3 directories:
 
