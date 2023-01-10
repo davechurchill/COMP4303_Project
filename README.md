@@ -4,7 +4,7 @@
 
 * Click the `Use this template` green button in the top-right of the repo
 * Create a new *PRIVATE* repository from this template
-* Add user `davechurchill` and `____` as collaborators (Settings > Manage Access > Add People)
+* Add user `davechurchill` and `briannamcdonald` as collaborators (Settings > Manage Access > Add People)
 * Submit the URL to your new repo via the `Project - GitHub Repo Link` D2L assignment (1 per group)
 * Click the pencil icon in the top-right of this section to edit straight from the GitHub website
 * **Edit your `README.md` file to include your group info, and remove these instructions**
