@@ -19,11 +19,9 @@ bin/
 
 src/ 
   - must contain your bot source code
-  - copy all files from your STARTcraft windows/c++/src/ directory here
 
 visualstudio/
   - must contain your visual studio project files
-  - copy all files from your STARTcraft windows/c++/visualstudio/ directory here
   - delete all temporary output vs directories, they contain massive files
     - visualstudio/Release
     - visualstudio/Debug
