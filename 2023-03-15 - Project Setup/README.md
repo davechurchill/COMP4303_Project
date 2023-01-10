@@ -26,9 +26,9 @@ I will be demonstrating it extensively in class, but you can also follow these w
 
 # Minecraft Setup Instructions
 
-There are two main ways of setting up the GDMC framework. 
-All instructions can be found on the GDMC wiki: https://gendesignmc.wikidot.com/
-You can also find more information on the [GDMC Discord Server](http://discord.gg/ueaxuXj)
+- There are two main ways of setting up the GDMC framework. 
+- All instructions can be found on the GDMC wiki: https://gendesignmc.wikidot.com/
+- You can also find more information on the [GDMC Discord Server](http://discord.gg/ueaxuXj)
 
 ### 1) Setting up GDMC with HTTP Server (Recommended)
 
