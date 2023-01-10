@@ -30,7 +30,7 @@ visualstudio/
     - visualstudio/.vs
 ```
 
-
+Simply copy your `bin`, `src`, and `visualstudio` directories from your STARTcraft project into this directory.
 
 Notes: 
 - This entire submission should be no more than a few megabytes at most. 
