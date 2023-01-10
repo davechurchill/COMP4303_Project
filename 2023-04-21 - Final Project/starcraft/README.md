@@ -96,9 +96,11 @@ Here you will find a list of all the requirements for the StarCraft project. The
 - This won't always happen in every game, but you must show your bot successfully expand at least once in the video
 - I would like you to try to calcualte the location for an expansion on your own, however you can use existing libraries like [StarDraft](https://github.com/davechurchill/stardraft) for inspiration. Your calculated location does not need to be pixel perfect
 
-## Directory Structure
+# Starcraft Code Structure
 
-This folder should the following 3 directories:
+- The above checklist should be updated as features are completed, so I can see them with the final submission
+- All instructions should be removed from this file for the final submission with only the checklist remaining
+- This folder should the following 3 directories:
 
 ```
 bin/ 
