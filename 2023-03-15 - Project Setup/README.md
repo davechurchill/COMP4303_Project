@@ -29,7 +29,7 @@ I will be demonstrating it extensively in class, but you can also follow these w
 There are two main ways of setting up the GDMC framework. 
 All instructions can be found on the GDMC wiki: https://gendesignmc.wikidot.com/
 
-1)	Setting up GDMC with HTTP Server (Recommended)
+### 1) Setting up GDMC with HTTP Server (Recommended)
 
 Using this method, an HTTP server automatically starts when the game is run, and you get/set block types via HTTP GET and PUT requests. It allows you to edit blocks of a Minecraft world in real-time, which the other method does not allow you to do. This method uses an HTTP server connected to Minecraft using a Forge Mod. I set everything up and got it running in less than 15 minutes. You just have to install the current retail version of Minecraft, then install the Forge mod loader, then copy the http server jar to a specific folder, and run Minecraft. It comes with example python3 code which is extremely easy to use to get started, however any language can be used if you really want to. The problem with using another language is that you need to be able to send http requests, as well as decode the Minecraft chunk data, which is already done for you with the example python code. 
 
@@ -39,9 +39,9 @@ Using this method, an HTTP server automatically starts when the game is run, and
 - https://github.com/nilsgawlik/gdmc_http_client_python (sample python code)
 - https://github.com/yhirose/cpp-httplib (if you really want to try C++)
 
-2)	Setting up GDMC with MCEdit
+### 2) Setting up GDMC with MCEdit
 
 This method is historically more popular, and was what people used for last year’s projects. However, it is a little more cumbersome to set up. I have never personally used it, but it involves installing Minecraft, MCEdit, Anaconda, and ends up using older python 2.7 code, so I’m not a huge fan. Also, this method does not allow you to edit an actual running Minecraft game in real-time. You must run your entire algorithm to completion in order to see any changes. You can use this method if you wish, but I will not be able to personally offer any help with setting it up or running it.
 
-https://gendesignmc.wikidot.com/wiki:submission-mcedit
+- https://gendesignmc.wikidot.com/wiki:submission-mcedit
 
