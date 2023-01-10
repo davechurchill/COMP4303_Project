@@ -10,7 +10,8 @@ For the project initial demo, you must record a narrated 3-5 minute video showin
 
 This folder contains the following 3 directories:
 
-```bin/ 
+```
+bin/ 
   - must contain your compiled StarterBot.exe
   - must contain any additional files you need in your bin dir
   - do not include any visualstudio output debugging files such as .pdb files
@@ -25,8 +26,10 @@ visualstudio/
   - delete all temporary output vs directories, they contain massive files
     - visualstudio/Release
     - visualstudio/Debug
-    - visualstudio/.vs```
+    - visualstudio/.vs
+```
 
-This entire submission should be no more than a few megabytes at most. If it is any larger than this, please remove any unnecessary files listed above
+This entire submission should be no more than a few megabytes at most. 
+If it is any larger than this, please remove any unnecessary files listed above
 
 Note: Delete this file and folder if you are not doing the Starcraft project
