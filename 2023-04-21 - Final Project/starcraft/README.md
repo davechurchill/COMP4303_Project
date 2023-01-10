@@ -98,7 +98,7 @@ Here you will find a list of all the requirements for the StarCraft project. The
 
 ## Directory Structure
 
-This folder contains the following 3 directories:
+This folder should the following 3 directories:
 
 ```
 bin/ 
@@ -118,4 +118,7 @@ visualstudio/
     - visualstudio/Debug
     - visualstudio/.vs
 ```
+
+Simply copy your `bin`, `src`, and `visualstudio` directories from your STARTcraft project into this directory.
+
 This entire submission should be no more than a few megabytes at most. 
