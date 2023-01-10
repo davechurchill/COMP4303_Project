@@ -33,4 +33,4 @@ visualstudio/
 
 Notes: 
 - This entire submission should be no more than a few megabytes at most. 
-- Delete this file and folder if you are not doing the Starcraft project
+- Delete this folder if you are not doing the Starcraft project
