@@ -7,6 +7,7 @@ For the project initial demo, you must record a narrated 3-5 minute video showin
 - An attack takes place on the enemy base, ideally doing some damage or winning a game
 - Whatever your chosen area of specialization was should be partially implemented
 - An explanation of how these things have been accomplished so far, and what features you have left to implement
+- Link to the video in the root project README.md file
 
 This folder contains the following 3 directories:
 
