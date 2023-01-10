@@ -1,6 +1,6 @@
 # COMP4303_Project_Name_Here
 
-Instructions:
+## Instructions:
 
 * Click the `Use this template` green button in the top-right of the repo
 * Create a new *PRIVATE* repository from this template
@@ -9,18 +9,18 @@ Instructions:
 * Click the pencil icon in the top-right of this section to edit straight from the GitHub website
 * **Edit your `README.md` file to include your group info, and remove these instructions**
 
-Project Group Members:
+## Project Group Members:
 
 * Group Member Name 1 (Student ID #, email)
 * Group Member Name 2 (Student ID #, email)
 
-Project Videos:
+## Project Videos:
 
 * Project Demo: YouTube URL
 * Project Trailer: YouTube URL
 * Project  Presentation: YouTube URL
 
-Project Setup / Installation:
+## Project Setup / Installation:
 
 * Your project setup and installation instructions go here
 * Feel free to include screenshots if you want
