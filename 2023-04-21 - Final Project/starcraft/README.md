@@ -95,3 +95,27 @@ Here you will find a list of all the requirements for the StarCraft project. The
 - You must create at least 1 expansion at some point in the game based on some game condition trigger
 - This won't always happen in every game, but you must show your bot successfully expand at least once in the video
 - I would like you to try to calcualte the location for an expansion on your own, however you can use existing libraries like [StarDraft](https://github.com/davechurchill/stardraft) for inspiration. Your calculated location does not need to be pixel perfect
+
+## Directory Structure
+
+This folder contains the following 3 directories:
+
+```
+bin/ 
+  - must contain your compiled StarterBot.exe
+  - must contain any additional files you need in your bin dir
+  - do not include any visualstudio output debugging files such as .pdb files
+
+src/ 
+  - must contain your bot source code
+  - copy all files from your STARTcraft windows/c++/src/ directory here
+
+visualstudio/
+  - must contain your visual studio project files
+  - copy all files from your STARTcraft windows/c++/visualstudio/ directory here
+  - delete all temporary output vs directories, they contain massive files
+    - visualstudio/Release
+    - visualstudio/Debug
+    - visualstudio/.vs
+```
+This entire submission should be no more than a few megabytes at most. 
